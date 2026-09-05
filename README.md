@@ -42,8 +42,3 @@ ATELIER fue desarrollada como un prototipo funcional para dispositivos Android, 
 ## Código fuente
 
 Este repositorio contiene el código fuente completo de la aplicación desarrollada utilizando Flutter.
-## Descargar aplicación
-
-📱 Descargar APK de ATELIER:
-
-https://github.com/LuisPinto02/TALLER/releases
