@@ -34,11 +34,16 @@ ATELIER fue desarrollada como un prototipo funcional para dispositivos Android, 
 
 ## Autor
 
-**Almaraz Maldonado Angelli Allison
-  Mardoñez Aillón Vania Camila
-  Pinto Salazar José Luis
+**Almaraz Maldonado Angelli Allison-
+  Mardoñez Aillón Vania Camila-
+  Pinto Salazar José Luis-
   Soto Misericordia Guadalupe**
 
 ## Código fuente
 
 Este repositorio contiene el código fuente completo de la aplicación desarrollada utilizando Flutter.
+## Descargar aplicación
+
+📱 Descargar APK de ATELIER:
+
+https://github.com/LuisPinto02/TALLER/releases
